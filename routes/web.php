@@ -11,4 +11,4 @@
 |
 */
 
-Route::view('/', 'info');
+Route::view('/', 'simple');
